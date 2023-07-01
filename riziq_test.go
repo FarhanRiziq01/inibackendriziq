@@ -1,4 +1,4 @@
-package riziq
+package inibackendriziq
 
 import (
 	"fmt"
